@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá! Eu sou o Rafael Novaes.
 
-<!--
-**rafael-novaes/rafael-novaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 Estudando Python
+- 📕 Estudante de A.D.S no IFSP
+- 💼 Em busca de uma oportunidade como estagiário de ti
+- 📫 Email: rafael.novaes914@gmail.com
+- ⚡ Curiosidade: Curto jogar basquete.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/rafael-novaes"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-novaes&layout=compact&langs_count=16&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-novaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+</div>
