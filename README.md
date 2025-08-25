@@ -1,6 +1,6 @@
 # Olá! Eu sou o Rafael Novaes.
 
-- 🐍 Estudando Python
+- ☕ Estudando Java
 - 📕 Estudante de A.D.S no IFSP
 - 💼 Em busca de uma oportunidade como estagiário de ti
 - 📫 Email: rafael.novaes914@gmail.com
